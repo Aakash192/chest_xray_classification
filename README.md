@@ -14,8 +14,7 @@ This repository contains a complete solution for classifying chest X-ray images 
 
 - **Model Training:**  
   The project fine-tunes a pretrained ResNet18 model with:
-  - **Batch size:** 4
-  - **Number of epochs:** 10
+  - **Batch size:** 4  
+  - **Number of epochs:** 10  
 
-- **Classification & Visualization:**  
-  The trained CNN is used to classify unseen test images. A visualization script plots 15–20 test images with both the predicted and true labels displayed.
+![image](https://github.com/user-attachments/assets/aaa8c287-c353-40cd-bc7a-82a13902f485)
